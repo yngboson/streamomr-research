@@ -1,3 +1,3 @@
 # streamomr-research
 
-Test build of the `research/accuracy` branch of [streamomr](https://github.com/yngboson/streamomr): the standalone page only (`index.html`, built with `scripts/build_standalone.py` at 4ecee1c).
+Test page with the **development logging build** of [streamomr](https://github.com/yngboson/streamomr) `main` (`python scripts/build_standalone.py --dev`): standalone scanner + a "개발용 로그" card that downloads one zip (log.txt, scans/*, frames.csv, failures/*).
